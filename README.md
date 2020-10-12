@@ -17,6 +17,6 @@ $ pip install py-opc
 
 $ pip3 install pyusbiss
 
-Running :
+Running this save PM data as a CSV file OPC CSV folder:
 
-Run the script opc-r1.py
+$ python3 opc-r1.py
