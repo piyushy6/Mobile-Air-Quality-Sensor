@@ -1,7 +1,6 @@
 # Rpi-Air-Quality-Sensor
 
-py-opc
-It is the python library for connetcing Alphasense Optical Particle Counter to Raspberry Pi.
+py-opc is the python library for connecting Alphasense Optical Particle Counter to Raspberry Pi.
 
 https://py-opc.readthedocs.io/en/latest/
 
@@ -14,13 +13,13 @@ Installation :
 $ pip install py-opc 
 
 To get OPC-R1 class, fork FlorentinBulotUoS/py-opc 
-This will add the OPC-R1 class, which is not currently present in py-opc
+This will add the OPC-R1 class, which is currently not present in py-opc
 
 2.) For pyusbiss :
 
 $ pip3 install pyusbiss
 
-Running this save PM data as a CSV file OPC CSV folder:
+Running this save PM data as a CSV file in OPC CSV folder in RPi:
 
 $ python3 opc-r1.py
 
