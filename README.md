@@ -8,12 +8,9 @@ I am connecting OPC-R1 to Rpi using SPI-USB connector. So I use pyusbiss library
 
 Installation :
 
-1.) For py-opc on RPi :
+1.) For adding py-opc on RPi :
 
-$ pip install py-opc 
-
-To get OPC-R1 class, fork FlorentinBulotUoS/py-opc 
-This will add the OPC-R1 class, which is currently not present in py-opc
+!wget https://github.com/FlorentinBulotUoS/py-opc
 
 2.) For pyusbiss :
 
