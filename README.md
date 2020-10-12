@@ -20,3 +20,5 @@ $ pip3 install pyusbiss
 Running this save PM data as a CSV file OPC CSV folder:
 
 $ python3 opc-r1.py
+
+License for using the py-opc Library is added at Library file
