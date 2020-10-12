@@ -5,7 +5,7 @@ It is the python library for connetcing Alphasense Optical Particle Counter to R
 
 https://py-opc.readthedocs.io/en/latest/
 
-I am connecting OPC-R1 to Rpi using SPI-USB connector. So I use pyusbiss 
+I am connecting OPC-R1 to Rpi using SPI-USB connector. So I use pyusbiss library
 
 Installation :
 
