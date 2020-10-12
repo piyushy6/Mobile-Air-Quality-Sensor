@@ -13,6 +13,9 @@ Installation :
 
 $ pip install py-opc 
 
+To get OPC-R1 class, fork FlorentinBulotUoS/py-opc 
+This will add the OPC-R1 class, which is not currently present in py-opc
+
 2.) For pyusbiss :
 
 $ pip3 install pyusbiss
